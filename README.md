@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bharath-s31
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Deeplearning,NLP,LLM
+- 🌱 Azure Data Engineer
 - 📫 How to reach me bharath_s_@outlook.com
 
 
